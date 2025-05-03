@@ -1,0 +1,38 @@
+[
+    {
+      "Id": 1,
+      "Name": "Sunrise",
+      "Type": "Villa",
+      "Price": 450000
+    },
+    {
+      "Id": 2,
+      "Name": "Greenwood",
+      "Type": "Apartment",
+      "Price": 300000
+    },
+    {
+      "Id": 3,
+      "Name": "Oceanview",
+      "Type": "Condo",
+      "Price": 500000
+    },
+    {
+      "Id": 4,
+      "Name": "Mountain",
+      "Type": "Cottage",
+      "Price": 350000
+    },
+    {
+      "Id": 5,
+      "Name": "City Center",
+      "Type": "Loft",
+      "Price": 400000
+    },
+    {
+      "Id": 6,
+      "Name": "Lakeside",
+      "Type": "Bungalow",
+      "Price": 550000
+    }
+]
